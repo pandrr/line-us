@@ -1,6 +1,6 @@
 var net = require('net');
 
-var host='192.168.11.14';
+var host='line-us.local';
 
 var client = new net.Socket();
 
